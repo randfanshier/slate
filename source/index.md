@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: API Reference Touched by RAND
 
 language_tabs:
   - shell
@@ -16,9 +16,9 @@ includes:
 search: true
 ---
 
-# Introduction
+# Introduction Touched by RAND2
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Touched by RAND: Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
 We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
 
@@ -30,18 +30,19 @@ This example API documentation page was created with [Slate](http://github.com/t
 
 ```ruby
 require 'kittn'
-
+Touched by RAND
 api = Kittn::APIClient.authorize!('meowmeowmeow')
 ```
 
 ```python
 import kittn
-
+Touched by RAND
 api = kittn.authorize('meowmeowmeow')
 ```
 
 ```shell
 # With shell, you can just pass the correct header with each request
+Touched by RAND
 curl "api_endpoint_here"
   -H "Authorization: meowmeowmeow"
 ```
